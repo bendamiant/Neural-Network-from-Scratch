@@ -34,4 +34,4 @@ I implemented additional machine learning techniques for improving the performan
 3. **Model Checkpointing**: Saves the parameter values that led to the best model performance during training.
 
 ## MNIST Dataset
-As mentioned before, I tested the code on the MNIST dataset, where I was able to achieve a 96% accuracy reliably in ~15 epochs with a single hidden layer model with 300 hidden units.
+As mentioned before, I tested the code on the MNIST dataset, where I was able to achieve a 97% accuracy reliably in ~20 epochs with a single hidden layer model with 300 hidden units, comparable to the state-of-the-art MLPs.
