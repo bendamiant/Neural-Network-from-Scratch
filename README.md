@@ -1,5 +1,5 @@
 # Neural-Network-from-Scratch
-- [View and run the code on Kaggle](https://www.kaggle.com/code/ben12002/neural-network-from-scratch/notebook)
+- [View and run the code on Kaggle](https://www.kaggle.com/code/bendamiant/neural-network-from-scratch)
 
 ## Overview
  - This project presents object-oriented code for creating, designing, and training neural networks for various machine learning problems.
@@ -12,7 +12,7 @@ When it comes to learning a specific topic, I enjoy exploring and connecting all
 Building neural network classes from scratch (using only the assistance of NumPy), then using those classes to train a neural network, then design it on a dataset is a great way to do so.
 
 ## Usage
-Viewing and running the code is as simple as visiting the [kaggle notebook link for this project](https://www.kaggle.com/code/ben12002/neural-network-from-scratch/notebook). To edit the code, just click the "edit" button on the top right corner on the aforementioned link.
+Viewing and running the code is as simple as visiting the [kaggle notebook link for this project](https://www.kaggle.com/code/bendamiant/neural-network-from-scratch). To edit the code, just click the "edit" button on the top right corner on the aforementioned link.
 
 Alternatively, you can download the notebook, then use it on any editor you like.
 
